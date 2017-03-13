@@ -50,7 +50,7 @@ p, address {
   line-height: 1.4em; }
 
 .bottom-cta {
-  background: linear-gradient(to bottom, #52A7D8 0%, #52a7d8 100%);
+  background: linear-gradient(to bottom, #52A7D8 0%, #4fa5d6 100%);
   color: #fff;
   text-align: center;
   margin: 0;
@@ -78,7 +78,7 @@ p, address {
 .hero {
   color: #ffffff;
   text-align: center;
-  background: linear-gradient(to bottom, #52a7d8 0%, #52A7D8 100%) no-repeat #a05fb7;
+  background: linear-gradient(to bottom, #4fa5d6 0%, #1077B4 100%) no-repeat #a05fb7;
   font-size: 120%;
   padding-top: 50px; }
   .hero p {
@@ -446,7 +446,7 @@ blockquote:before {
 
 .button a:hover, input[type=submit]:hover {
   border: 1px solid #fff;
-  background: #52A7D8;
+  background: #1077B4;
   cursor: pointer; }
 
 .button.alt a {
