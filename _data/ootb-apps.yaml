@@ -1,8 +1,8 @@
-- title: Office Applications
-  description: — a complete office suite comes built into NHSbuntu, saving trusts thousands in licensing fees for proprietary office suites.
+- title: Office Apps
+  description: — a complete office suite to create documents and work with spreadsheets.
 
 - title: NHSMail2
   description: — an email client ready to easily and simply connect to NHSmail2 and Trust email
 
-- title: Chat Messaging
+- title: Chat
   description: — a messenger app, ready for chat and file sharing using NHSmail2

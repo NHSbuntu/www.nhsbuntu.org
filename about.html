@@ -1,19 +1,12 @@
 ---
-title: The NHSbuntu Team
-description: # stuff about teams
+title: About NHSbuntu
+description: # stuff about us
 ---
-<p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong> Manage Staff members</a></p>
-<ul class="staff">
-
-      <p>We understand that the needs of healthcare differ from other types of enterprise, and have built NHSbuntu accordingly. We know that the NHS delivers healthcare in an unique way, which is why we've set up NHSbuntu to fit the NHS, rather than fitting the NHS round the software. We'll always be more bothered with productivity than billing over here.</p>
-
-      <p>Medicine, as a profession, has always understood the need to share information and learning so that the next generation of medicine advances from this one. We believe that this should include the software that we use to deliver medical care. Open source software is a way to share and build on the best, and provide every NHS institution with the right software to enable them to focus on care.</p>
-
-	{% for person in site.staff_members %}
-		<li>
-			<div class="square-image"><img src="{% include relative-src.html src=person.image_path %}" alt="{{ person.name }}"/></div>
-			<div class="name"><a target="_blank" href="https://twitter.com/{{ person.twitter }}">{{ person.name }}</a></div>
-			<div class="position">{{ person.position }}</div>
-		</li>
-	{% endfor %}
-</ul>
+<br/>
+<p class="subtext">We believe that <a href="http://www.bawmedical.co.uk/opensourceistheonlyway/">open source is the only way for medicine.</a></p>
+<br/>
+<p class="subtext">We understand that the NHS differs from other enterprises.</p>
+<p class="subtext">We know that the NHS delivers healthcare in an unique way.</p>
+<p class="subtext">We make software to fit the NHS, not expecting the NHS to fit the software.</p>
+<p class="subtext">We recognise that the practice of medicine improves by sharing information and learning.</p>
+<p class="subtext">We think that same practice should include the digital tools used to deliver medical care.</p>

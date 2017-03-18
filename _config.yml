@@ -2,14 +2,14 @@
 # Site
 
 title: NHSbuntu
-url: https://nhsbuntu.openhealthhub.org/
-baseurl: 
+url: http://nhsbuntu.openhealthhub.org/
+baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: 
+logo:
 description: NHSbuntu
 author:
   name: openhealthhub.org
@@ -42,7 +42,6 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "page"
   -
     scope:
       path: "index.html"
@@ -50,9 +49,24 @@ defaults:
       layout: "default"
   -
     scope:
+      path: "about.html"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "team.html"
+    values:
+      layout: "page"
+  -
+    scope:
       path: "contact.html"
     values:
       full_width: true
+  -
+    scope:
+      path: "blog/index.html"
+    values:
+      layout: "page"
 
 jekyll-archives:
   enabled:
