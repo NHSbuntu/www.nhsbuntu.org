@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700,700i);
 .plans, .staff, .contact-box, footer .footer-columns {
   display: -webkit-box;
   display: -webkit-flex;
@@ -27,20 +28,25 @@ img {
   width: 100%; }
 
 h1 strong, h2 strong {
-  font-weight: 700; }
+  font-weight: 700;
+  font-family: "Ubuntu", sans-serif; }
 
 h1 {
   font-weight: 300;
   font-size: 2.3em;
-  margin: 0; }
+  margin: 0;
+  font-family: "Ubuntu", sans-serif; }
 
 h2 {
   font-weight: 300;
   font-size: 2.2em;
-  margin: 0 0 30px 0; }
+  margin: 0 0 20px 0;
+  font-family: "Ubuntu", sans-serif; }
 
 h3 {
-  margin: 20px 0 10px 0; }
+  font-family: "Ubuntu", sans-serif;
+  margin: 20px 0 10px 0;
+  font-family: "Ubuntu", sans-serif; }
 
 p, address {
   font-size: 1em;
@@ -80,7 +86,7 @@ p, address {
   text-align: center;
   background: linear-gradient(to bottom, #4fa5d6 0%, #1077B4 100%) no-repeat #a05fb7;
   font-size: 120%;
-  padding-top: 50px; }
+  padding-top: 30px; }
   .hero p {
     color: #fff; }
 
@@ -150,7 +156,7 @@ header {
   box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.2); }
 
 section {
-  padding: 100px 0; }
+  padding: 20px 0; }
 
 section + section {
   padding-top: 0; }
