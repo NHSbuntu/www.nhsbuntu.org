@@ -4,9 +4,9 @@
 title: NHSbuntu
 url: http://nhsbuntu.openhealthhub.org/
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-94014524-1
 google_maps_javascript_api_key:
-disqus_shortname:
+disqus_shortname: nhsbuntu
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo:
@@ -38,6 +38,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      comments: true
   -
     scope:
       path: ""
