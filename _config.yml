@@ -41,10 +41,6 @@ defaults:
       comments: true
   -
     scope:
-      path: ""
-    values:
-  -
-    scope:
       path: "index.html"
     values:
       layout: "default"
@@ -68,6 +64,7 @@ defaults:
       path: "blog/index.html"
     values:
       layout: "page"
+      comments: true
 
 jekyll-archives:
   enabled:
