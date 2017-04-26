@@ -11,9 +11,9 @@ google_maps_javascript_api_key:
 logo:
 description: NHSbuntu
 author:
-  name: nhsbuntu.org
+  name: NHSbuntu
   email: info@openhealthhub.org
-  twitter: nhsbuntuopen_health_hub
+  twitter: nhsbuntu
 social:
   name: NHSbuntu
   links:
