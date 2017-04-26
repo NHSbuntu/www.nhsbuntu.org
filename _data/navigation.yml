@@ -10,3 +10,7 @@
   link: /about/
   new_window: false
   highlight: false
+- name: Forum
+  link: https://www.openhealthhub.org/c/nhsbuntu
+  new_window: true
+  highlight: true
