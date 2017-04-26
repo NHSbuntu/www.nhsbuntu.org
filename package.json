@@ -1,0 +1,22 @@
+{
+  "name": "nhsbuntu.openhealthhub.org",
+  "version": "1.0.0",
+  "description": "The NHSbuntu website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-health-hub/nhsbuntu.openhealthhub.org.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/open-health-hub/nhsbuntu.openhealthhub.org/issues"
+  },
+  "homepage": "https://github.com/open-health-hub/nhsbuntu.openhealthhub.org#readme",
+  "dependencies": {
+    "github-fork-ribbon-css": "^0.2.1"
+  }
+}
