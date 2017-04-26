@@ -4,14 +4,7 @@
   - name: About
     link: /about/
 - links:
-  - name: Docs
-    link: /
-    new_window: true
-  - name: Status
-    link: /
-    new_window: true
-- links:
   - name: Twitter
-    link: https://twitter.com/open_health_hub
+    link: https://twitter.com/nhsbuntu
     social_icon: Twitter
     new_window: true
