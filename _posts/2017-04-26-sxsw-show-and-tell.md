@@ -1,5 +1,5 @@
 ---
-title: SxSW CIO & CCIO Show and Tell !
+title: SxSW CIO & CCIO Show and Tell
 categories: nhsbuntu
 author_staff_member: rob-dyke
 comments: true
