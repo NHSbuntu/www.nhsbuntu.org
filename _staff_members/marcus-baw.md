@@ -1,6 +1,6 @@
 ---
 name: Marcus Baw
-position: Clinical Advisor
+position: BDFL and Clinical Adviser
 image_path: /images/staff_members/marcus-baw.png
 twitter: marcus_baw
 github: pacharanero
