@@ -1,6 +1,6 @@
 ---
 name: Rob Dyke
-position: Technical Advisor
+position: CTO
 image_path: /images/staff_members/rob-dyke.png
 twitter: robdykedotcom
 github: robdyke
