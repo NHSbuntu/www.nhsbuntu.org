@@ -1,6 +1,6 @@
 ---
 title: Managing Windows Encryption -Views from the Frontline
-categories: encryption frontline
+categories: nhsbuntu
 author_staff_member: kenny-kennington
 comments: true
 ---
