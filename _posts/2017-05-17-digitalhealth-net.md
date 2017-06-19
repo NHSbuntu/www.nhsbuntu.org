@@ -1,8 +1,9 @@
 ---
 title: NHS urged to consider Microsoft alternatives following cyber attacks
-categories: nhsbuntu
+categories: NHSbuntu
 author_staff_member: 0rob-dyke
 comments: true
+date: 2017-05-17
 ---
 
 [Jon Hoeksma](https://www.digitalhealth.net/author/jon-hoeksma/) interviewed us about NHSbuntu for Digital Health.

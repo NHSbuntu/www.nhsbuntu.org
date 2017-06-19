@@ -1,8 +1,9 @@
 ---
 title: SxSW CIO & CCIO Show and Tell
-categories: nhsbuntu
+categories: NHSbuntu
 author_staff_member: 0rob-dyke
 comments: true
+date: 2017-04-26
 ---
 
 <style>

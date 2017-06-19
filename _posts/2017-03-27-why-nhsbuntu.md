@@ -1,7 +1,9 @@
 ---
 title: Why NHSbuntu?
-categories: nhsbuntu
+categories: NHSbuntu
 author_staff_member: 0marcus-baw
+comments: true
+date: 2017-03-27
 ---
 
 Look. It’s time we talked about something. NHSland has a problem. A debt problem. A technical debt problem of immense proportions. We’re friends. We can talk about this. Openly. We want to help.
