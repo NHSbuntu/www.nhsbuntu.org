@@ -2,7 +2,7 @@
 # Site
 
 title: NHSbuntu
-url: http://www.nhsbuntu.org/
+url: http://www.nhsbuntu.org
 baseurl:
 google_analytics_key: UA-94014524-1
 google_maps_javascript_api_key:
@@ -84,7 +84,6 @@ exclude:
 
 # -----------
 # CloudCannon
-
 social_icons:
   - Facebook
   - Google Plus

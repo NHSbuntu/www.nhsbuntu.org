@@ -1,6 +1,6 @@
 ---
 name: Tony Yates
-position: Head of Strategy 
+position: Strategy and Tactical
 image_path: https://pbs.twimg.com/profile_images/802112742970851328/MsLLK_82.jpg
 twitter: tonyyates
 github: tonyyates

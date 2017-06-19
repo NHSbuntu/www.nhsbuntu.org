@@ -1,8 +1,9 @@
 ---
 title: Apperta Foundation supports NHSbuntu development
-categories: nhsbuntu
+categories: NHSbuntu
 author_staff_member: 0marcus-baw
 comments: true
+date: 2017-05-19
 ---
 
 We're very excited to be able to announce that the [Apperta Foundation](http://www.apperta.org/), (which was formerly the NHS England Open Source Programme) has agreed to provide NHSbuntu with initial support funding of £40k, in order to facilitate the initial few work packages required for NHSbuntu's next few steps.
@@ -14,4 +15,3 @@ Future work packages will include the badly-needed support for the NHS Identity 
 We're also tremendously excited to be working closely with the Ripple Foundation and have been invited to become part of the [1% Open Digital Platform Challenge Fund](http://rippleosi.org/open-digital-platform-challenge-fund/) campaign. If you're reading this then you're probably someone who already believes in the power of open source, open standards, open interfaces, and open platforms, so please do read more about the campaign on the Ripple site and spread the word.
 
 More news on that one to follow. Suffice to say however, it's been an interesting few weeks for NHSbuntu.
-
