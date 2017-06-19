@@ -1,6 +1,6 @@
 ---
 name: Kenny (Gary) Kennington
-position: Head of NHS
+position: NHS Needs and Requirements
 image_path: https://pbs.twimg.com/profile_images/586939503/Kenny_EnFrance.jpg
 twitter: kenni39
 github: kennykennington

@@ -1,6 +1,6 @@
 ---
 name: Rob Dyke
-position: CTO
+position: All The Tech
 image_path: /images/staff_members/rob-dyke.png
 twitter: robdykedotcom
 github: robdyke
