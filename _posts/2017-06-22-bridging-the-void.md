@@ -1,6 +1,6 @@
 ---
 title: Bridging the void
-date: 2017-06-19
+date: 2017-06-22
 categories: NHSbuntu
 author_staff_member: brett-jackson
 comments: true
