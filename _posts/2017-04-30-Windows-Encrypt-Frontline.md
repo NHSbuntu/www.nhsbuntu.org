@@ -1,10 +1,11 @@
 ---
-title: Managing Windows Encryption -Views from the Frontline
+title: Managing Windows Encryption
 categories: NHSbuntu
 author_staff_member: kenny-kennington
 comments: true
 date: 2017-04-30
 ---
+> Views from the Frontline
 
 I am very proud to have been included in the NHSbuntu Core Team, and wanted to highlight one of the reasons why we believe that this can make a substantial change to the way the NHS spends its money on Software, which is often a hidden cost, because we have to have software to manage our patient information and that information has to be protected (See Data Protection 7th Principle). So how is this managed across an estate as large as the NHS?
 
